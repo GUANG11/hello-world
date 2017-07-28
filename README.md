@@ -1,8 +1,4 @@
-# hello-world
-my first day at GitHub
+it is the second day that i use github. 
+now i am in Shen zhen China. I am using the Python. 
 
-Hi, everybody,
-
-i am a Chinese until now and work in Germany. I would like to do something that is meaningful, for example, go into the programming world. I will learn how to make an Apple APP. I think these APP can help me better my job and give suprise to my friends.
-
-Thanks a lot!
+Python is a very interesting program language.
